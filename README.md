@@ -1,7 +1,7 @@
 # awsome-apps-and-tools
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="awesome tools ">
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="awesome tools for windows ">
 
 <!-- vim-markdown-toc GFM -->
 
